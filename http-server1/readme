@@ -1,0 +1,40 @@
+Kidney Management API
+A simple Express server to manage user kidney health. The API supports operations to check, add, replace, and remove kidneys for a user.
+
+Prerequisites
+Node.js (version 14.x or higher)
+npm (version 6.x or higher) or yarn (version 1.x or higher)
+Installation
+Clone the repository and install the dependencies.
+
+# Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
+
+# Navigate to the project directory
+cd your-repo-name
+
+# Install dependencies
+npm install
+# or
+yarn install
+
+
+Usage
+Start the server.
+
+
+# Start the development server
+npm start
+# or
+yarn start
+The server will run on port 3000.
+
+Usage
+Start the server.
+
+
+# Start the development server
+npm start
+# or
+yarn start
+The server will run on port 3000.
